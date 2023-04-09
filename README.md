@@ -1,4 +1,4 @@
-# Introduction-to-array
+
 # Introduction-to-array
 <br><b><ins>Array</b></ins>:- An array is a data structure containing a collection of values or variables.The simplest type of array is a linear array or one-dimensional array.</br>
 <br><b> Sum of an array</b>:- is defined as the sum of all elements present in the array.</br>
